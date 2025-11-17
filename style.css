@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive&family=Exo&display=swap');
+
+/*
+font-family: 'Cutive', serif;
+font-family: 'Exo', sans-serif;
+*/
+
+.obal {
+    max-width: 800px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+body {
+    font-family: 'Exo', sans-serif;
+    background-color: #9e6d1d; 
+}
+
+h1, h2, h3 {
+    font-family: 'Cutive', serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.hlava {
+    font-family: 'Exo', sans-serif;
+    font-size: 150%;
+    text-align: center;
+    background-color: saddlebrown;
+    color: whitesmoke;
+    padding: 1px;
+}
+
+.zapati {
+    text-align: center;
+    background-color: saddlebrown;
+    padding: 1em 0em;
+    color: white;
+}
+
+.menu {
+    padding: 1em;
+    background-color: darkgoldenrod; 
+}
+
+.menu a {
+    padding: 1em;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+.menu a:hover, a.active {
+    color: darkgoldenrod;
+    background-color: white;
+}
+
+.telo {
+    padding: 1em;
+}
+
+.telo a {
+    font-weight: bold;
+    color: rgb(158, 109, 29);
+    text-decoration: none;
+}
+
+.telo a:hover {
+    text-decoration: underline;
+}
+
+/* Pokud šířka okna menší než 600 px, aktivuj tyto styly */
+@media only screen and (max-width: 600px) {
+    .menu a {
+        display: block; /* Z řádkové značky udělá blokovou */
+    }
+  }
