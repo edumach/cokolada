@@ -1,3 +1,4 @@
+/* webové fonty */
 @import url('https://fonts.googleapis.com/css2?family=Cutive&family=Exo&display=swap');
 
 /*
@@ -7,23 +8,23 @@ font-family: 'Exo', sans-serif;
 
 .obal {
     max-width: 800px;
-    margin: auto;
+    margin: auto; /* vycentruj obsah svisle na střed */
     background-color: whitesmoke;
 }
 
 body {
-    font-family: 'Exo', sans-serif;
+    font-family: 'Exo', sans-serif; /* písmo stránky */
     background-color: #9e6d1d; 
 }
 
 h1, h2, h3 {
-    font-family: 'Cutive', serif;
+    font-family: 'Cutive', serif; /* písmo nadpisů */
 }
 
 img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
+    max-width: 100%; /* max. šířka 100% */
+    height: auto; /* výška automatická */
+    border-radius: 10px; /* zaoblení okraje obrázku */
 }
 
 .hlava {
@@ -32,18 +33,18 @@ img {
     text-align: center;
     background-color: saddlebrown;
     color: whitesmoke;
-    padding: 1px;
+    padding: 1px; /* vzdálenost obsahu od okraje 1px */
 }
 
 .zapati {
     text-align: center;
     background-color: saddlebrown;
-    padding: 1em 0em;
+    padding: 1em 0em; /* vzdálenost od okraje svisle 1 řádek, vodorovně beze změny */
     color: white;
 }
 
 .menu {
-    padding: 1em;
+    padding: 1em; /* vzdálenost od okraje ve všech čtyřech směrech 1 řádek */
     background-color: darkgoldenrod; 
 }
 
@@ -65,13 +66,13 @@ img {
 }
 
 .telo a {
-    font-weight: bold;
+    font-weight: bold; /* tučné písmo */
     color: rgb(158, 109, 29);
     text-decoration: none;
 }
 
 .telo a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* podtržené písmo */
 }
 
 /* Pokud šířka okna menší než 600 px, aktivuj tyto styly */
@@ -80,3 +81,4 @@ img {
         display: block; /* Z řádkové značky udělá blokovou */
     }
   }
+
