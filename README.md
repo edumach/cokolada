@@ -1,7 +1,7 @@
 # Ukázkový projekt (web)
 
 ## Podmínka splnění této lekce
-- ✅ Web cokolada zobrazuje se na zadané URL na serveru TuX.
+- ✅ Web `cokolada` se zobrazuje na zadané URL na serveru TuX.
 - ❌ Pokud ne, oprav.
 
 ## Stažení a spuštění
