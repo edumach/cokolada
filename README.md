@@ -29,14 +29,14 @@ Dynamické stránky webový server sestavuje (generuje) na vyžádání – nap�
 
 Pozn: Letos se naučíme tvořit statické, ve 3. ročníku i ty dynamické. V každém případě **ani dynamické stránky se bez HTML a CSS neobejdou**.
 
-## Editace kódu ve VSCode
+## Editace kódu ve VSCode
 
 - Spusť program VS Code a otevři složku `cokolada`: **File** → **Open Folder**. 
 
 
 ## Publikace na server TuX
 
-- [Přihlášení a další věci](https://docs.google.com/document/d/1fYPy8ZYxgMO9AQfNJZSVYTy4LJGHFFfgKNoDJc6MWr4/edit?usp=sharing)
+- [Přihlášení ve WinSCP a další věci](https://docs.google.com/document/d/1fYPy8ZYxgMO9AQfNJZSVYTy4LJGHFFfgKNoDJc6MWr4/edit?usp=sharing)
 
 > V macOS použijte místo WinSCP aplikaci **Cyberduck** ([Návod](https://docs.google.com/document/d/1yD_mbddb34fwS3pZZRt_Fq4mdWAWskytiiFtZl0jIyE/edit?usp=sharing))
 
