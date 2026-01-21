@@ -20,7 +20,7 @@ Projdi si web pomocí tlačítek navigace. Sleduj jak vypadá URL. Na konci bude
 
 ## Statické &times; dynamické stránky 
 
-**Statické stránky** tvoří několik samostatných souborů `.html`. V prohlížeči se mezi nimi přechází pomocí navigace (hypertextových odkazů na všechny ostatní stránky). Každý vidí to samé – HTML a CSS kód je pro všechny stejný.
+**Statické stránky** tvoří několik samostatných souborů `.html`. V prohlížeči se mezi nimi přechází pomocí navigace (hypertextových odkazů na všechny ostatní stránky). webový server každému posílá ten samý soubor - každý vidí to samé (HTML a CSS kód je pro všechny stejný).
 
 **Dynamické stránky** webový server sestavuje (generuje) na vyžádání – např. kliknutím na odkaz nebo jinou akcí. Každý může dostat něco jiného. Vyzkoušejte např. na:
 
