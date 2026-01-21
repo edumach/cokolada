@@ -10,7 +10,7 @@
 3. Přejmenuj složku  `cokolada-master` na  `cokolada`.
 
 ## O webu cokolada
-Web tvoří **několik samostatných souborů** (stránek) a obrázků jako samostatných souborů. Toto je běžná praxe, jinak to ani nejde. Mnoho návštěvníků webu o tom nemá ani tušení. 
+Web tvoří **několik samostatných souborů** (stránek) a obrázků jako **samostatných souborů**. Toto je běžná praxe, jinak to ani nejde. Mnoho návštěvníků webu o tom nemá ani tušení. 
 Technicky není rozdíl mezi soubory `.html`, `.jpg`, `.png` a dalšími.
 
 Ve správci souborů poklepej na soubor `index.html`. Otevře se ve výchozím prohlížeči (Edge, Chrome). Poznámka: Název "`index`" je vyhrazený pro **výchozí webovou stránku**. 
@@ -22,7 +22,7 @@ Projdi si web pomocí tlačítek navigace. Sleduj jak vypadá URL. Na konci bude
 
 **Statické stránky** tvoří několik samostatných souborů `.html`. V prohlížeči se mezi nimi přechází pomocí navigace (hypertextových odkazů na všechny ostatní stránky). Každý vidí to samé – HTML a CSS kód je pro všechny stejný.
 
-Dynamické stránky webový server sestavuje (generuje) na vyžádání – např. kliknutím na odkaz nebo jinou akcí. Každý může dostat něco jiného. Vyzkoušejte např. na:
+**Dynamické stránky** webový server sestavuje (generuje) na vyžádání – např. kliknutím na odkaz nebo jinou akcí. Každý může dostat něco jiného. Vyzkoušejte např. na:
 
 - [https://php.edumach.cz/kosik.php](https://php.edumach.cz/kosik.php)
 - [https://php.edumach.cz/ohmuv-zakon.php](https://php.edumach.cz/ohmuv-zakon.php)
