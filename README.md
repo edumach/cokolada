@@ -10,7 +10,7 @@
 3. Přejmenuj složku  `cokolada-master` na  `cokolada`.
 
 ## O webu cokolada
-Web tvoří **několik samostatných souborů** (stránek) a obrázků jako **samostatných souborů**. Toto je běžná praxe, jinak to ani nejde. Mnoho návštěvníků webu o tom nemá ani tušení. 
+Web tvoří **několik samostatných souborů** (stránek) a obrázků. Toto je běžná praxe, jinak to ani nejde. Mnoho návštěvníků webu o tom nemá ani tušení. 
 Technicky není rozdíl mezi soubory `.html`, `.jpg`, `.png` a dalšími.
 
 Ve správci souborů poklepej na soubor `index.html`. Otevře se ve výchozím prohlížeči (Edge, Chrome). Poznámka: Název "`index`" je vyhrazený pro **výchozí webovou stránku**. 
